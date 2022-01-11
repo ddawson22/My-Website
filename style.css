@@ -1,21 +1,27 @@
 body { 
   background-color: rgba(170, 135, 70, 0.336);
   margin: 3;
-
+  text-align: center;
 }
 
 header {
 	height: 100px;
 	background-color: rgba(170, 135, 70, 0.336);
+	  text-align: center;
+
 
 main {
 	padding-top: 100px;
 	min-height: 200px;
+	  text-align: center;
+
 }
 
 footer {
 	height: 100px;
 	background-color: #bdcbd9;
+	  text-align: center;
+
 }
 
 
