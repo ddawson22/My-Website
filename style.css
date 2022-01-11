@@ -20,7 +20,8 @@ main {
 footer {
 	height: 100px;
 	background-color: #bdcbd9;
-	  text-align: center;
+	text-align: courier New;
+	font-weight: bold;
 
 }
 
@@ -31,14 +32,16 @@ h1 {
 	padding-top: 05px;
 	margin: 0 0 0 20px;
     color:#5e646b;
-    font-family: Georgia;
+    text-align: courier New;
+	font-weight: bold;
 }
 h2 {
 	font-size: 35px;
 	text-align: center;
 	padding-top: 10px;
   color: #5e646b;
-font-family: Georgia;
+text-align: courier New;
+	font-weight: bold;
 }
 
 h3 {
@@ -55,7 +58,7 @@ p{
 	text-align: center;
 	padding-top: 10px;
     color:#3b3f44;
-font-family: Georgia;
+text-align: courier New;
 
 }
 ul{
@@ -63,8 +66,8 @@ ul{
 	text-align: center;
 	padding-top: 12px;
     color:#5e646b;
-font-family: Georgia;
-
+text-align: courier New;
+	
 }
 
 ol{ 
