@@ -74,6 +74,8 @@ ol{
 	padding-top: 10px;
     	color:#343a40;
 	font-family: courier New;
+	display: table;
+	margin: 0 auto;
 }
 
 /* Sets the image to be aligned in the center of the page */
@@ -100,6 +102,8 @@ ul{
 	padding-top: 12px;
     	color: black; 
 	text-align: courier New;
+	display: table;
+	margin: 0 auto;
 	
 }
 
