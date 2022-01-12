@@ -1,20 +1,16 @@
 body { 
   background-color: rgba(170, 135, 70, 0.336);
-  margin: 3;
+  margin: ;
   text-align: center;
 }
 
-header {
-	height: 100px;
-	background-color: rgba(170, 135, 70, 0.336);
-	  text-align: center;
-}
 
 main {
 	padding-top: 100px;
 	min-height: 200px;
-	  text-align: center;
-
+	text-align: center;
+	font-family: courier New;
+	color:#5e646b;
 }
 
 footer {
@@ -31,34 +27,34 @@ h1 {
 	text-align: center;
 	padding-top: 05px;
 	margin: 0 0 0 20px;
-    color:#5e646b;
-    text-align: courier New;
+    	color:#5e646b;
+   	text-align: courier New;
 	font-weight: bold;
 }
 h2 {
 	font-size: 35px;
 	text-align: center;
 	padding-top: 10px;
-  color: #5e646b;
-text-align: courier New;
+  	color: #5e646b;
+	text-align: center;
 	font-weight: bold;
+	font-family: courier New;
 }
 
 h3 {
 	font-size: 25px;
 	text-align: center;
 	padding-top: 10px;
-    color:#5e646b;
-font-family: Georgia;
-
+    	color:#5e646b;
+	font-family: courier New;
 }
 
 p{ 
 	font-size: 15px;
 	text-align: center;
 	padding-top: 10px;
-    color:#3b3f44;
-text-align: courier New;
+    	color:#3b3f44;
+	text-align: courier New;
 
 }
 ul{
@@ -71,11 +67,11 @@ text-align: courier New;
 }
 
 ol{ 
-font-size: 15px;
+	font-size: 15px;
 	text-align: center;
-	padding-top: 50px;
-    color:#5e646b;
-font-family: Georgia;
+	padding-top: 10px;
+    	color:#5e646b;
+	font-family: courier New;
 }
 
 img{
@@ -97,7 +93,7 @@ a {
 }
 
 a:link {
-  color: #265301;
+  color: rgba(170, 135, 70, 0.336)
 }
 
 a:visited {
