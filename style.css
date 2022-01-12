@@ -1,6 +1,12 @@
 body { 
   background-color: rgba(170, 135, 70, 0.336);
-  margin: ;
+  padding-top: 100px;
+	min-height: 200px;
+	text-align: center;
+	font-family: courier New;
+	color:#343a40;
+	font-weight: bold;
+}
   text-align: center;
 }
 
