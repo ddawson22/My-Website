@@ -4,6 +4,7 @@ body {
   text-align: center;
 }
 
+/* setting the dimensions, text color, font, etc. for all text inside of the main body of html */
 
 main {
 	padding-top: 100px;
@@ -14,13 +15,7 @@ main {
 	font-weight: bold;
 }
 
-footer {
-	height: 100px;
-	background-color: #43a40;
-	text-align: courier New;
-	font-weight: bold;
-
-}
+/* setting the dimensions, margins, text color, font, & text alignment for the main header */
 
 
 h1 {
@@ -32,6 +27,10 @@ h1 {
    	text-align: courier New;
 	font-weight: bold;
 }
+
+/* setting the dimensions,  text color, font, & text alignment for the second header */
+
+
 h2 {
 	font-size: 35px;
 	text-align: center;
@@ -42,6 +41,9 @@ h2 {
 	font-family: courier New;
 }
 
+/* setting the dimensions, text color, font, & text alignment for the third header */
+
+
 h3 {
 	font-size: 25px;
 	text-align: center;
@@ -49,6 +51,9 @@ h3 {
     	color:#5e646b;
 	font-family: courier New;
 }
+
+/* setting the dimensions, text color, font, & text alignment for all text within paragraphs */
+
 
 p{ 
 	font-size: 15px;
@@ -58,35 +63,49 @@ p{
 	text-align: courier New;
 
 }
-ul{
-	font-size: 15px;
-	text-align: center;
-	padding-top: 12px;
-    color:#343a40;
-text-align: courier New;
-	
-}
+
+
+/* setting the dimensions, text color, font, etc. for all text inside the About Me Ordered List secction */
+
 
 ol{ 
 	font-size: 15px;
 	text-align: center;
 	padding-top: 10px;
-    	color:#343a40
+    	color:#343a40;
 	font-family: courier New;
 }
+
+/* Sets the image to be aligned in the center of the page */
 
 img{
 text-align: center;
 
 }
 
-hr{ 
+/* Changes the size and thickness of the boarders throughout the webpage */
+
+hr { 
 height: 4px;
 background-color: black;
 border: 2px solid black;
   
 }
+
+/* setting the dimensions, text color, font, etc. for all text inside the Contact Info Unordered List secction */
+
+ul{
+	font-size: 15px;
+	text-align: center;
+	padding-top: 12px;
+    	color: black; 
+	text-align: courier New;
 	
+}
+
+
+/* Stylizes the linkes for the unordered list on the contacts section */
+
 a {
   outline: none;
   text-decoration: none;
@@ -118,4 +137,14 @@ a:hover {
 a:active {
   background: #265301;
   color: #CDFEAA;
+}
+
+/* setting the dimensions, text color, font, etc. for all text inside of the footer of html */
+
+footer {
+	height: 100px;
+	background-color: #43a40;
+	text-align: courier New;
+	font-weight: bold;
+
 }
