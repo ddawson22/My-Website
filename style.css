@@ -94,12 +94,12 @@ a {
 }
 
 a:link {
-  color: rgba(170, 135, 70, 0.336)
+  color: rgba(170, 135, 70, 0.336);
 }
 
 a:visited {
 background-color: black;
-color: #5e646b;
+color: #343a40;
 padding: 1em 1.5em;
 text-decoration: none;
 text-transform: lowercase
